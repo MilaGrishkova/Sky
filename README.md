@@ -8,7 +8,9 @@ And in SuperCollider the sound is synthesized by using a programming language.
 
 Thus, the game is not only a runner, but a real-time musical instrument that can also sound like a Theremin.
 
-[Hier kann man es sehen: YouTube](https://youtu.be/OYplfKiy_DQ).
+Hier kann man es sehen: [YouTube](https://youtu.be/OYplfKiy_DQ).
+
+______________________________
 
 
 ![logo](https://github.com/MilaGrishkova/Sky/raw/main/Sky.jpg)
