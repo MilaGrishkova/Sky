@@ -1,6 +1,7 @@
 # Sky
 
-This is a music runner game, made as a part of my experience with Motion Capture/[Xsens](https://www.xsens.com/motion-capture), Unity 3D and [SuperCollider](https://supercollider.github.io). 
+This is a music runner game, made as a part of my experience with Motion Capture/[Qualisys-Unity-SDK
+](https://github.com/qualisys/Qualisys-Unity-SDK), Unity 3D and [SuperCollider](https://supercollider.github.io). 
 The player controls the game by moving the marker. Motion data is captured by Motion capture in Unity. The player plays in real-time.
 
 Here is how it’s done: data (marker positions) is sent to the SuperCollider from Unity. This data generates the pitch of a sounding note (Frequenz). 
